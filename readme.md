@@ -1,5 +1,5 @@
 # Science Hack Club Webpage
 
-Under Developing
+This webpage is created with Jekyll following this <a href="http://jmcglone.com/guides/github-pages/">tutorial</a> by jmcglone.
 
 http://www.h4ck1ng.science
