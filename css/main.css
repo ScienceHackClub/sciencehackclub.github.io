@@ -1,6 +1,6 @@
 body {
     margin: 60px;
-    width: 70%;
+    width: 50%;
     background-color: #222222;  
 }
 nav ul li , footer ul, li {
@@ -16,7 +16,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
-shc {
+span.shc {
     text-decoration: none;
     color: #fff;
 }
@@ -51,6 +51,8 @@ p {
     font-size: 1em;
     line-height: 1.2em;
     color: #fff;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 ul {
