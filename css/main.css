@@ -23,7 +23,7 @@ span.shc {
 
 a {
     text-decoration: none;
-    color: #555;
+    color: #777;
 }
 a:hover {
     text-decoration: underline;
@@ -59,12 +59,14 @@ ul {
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #fff;
+    line-height: 1.2em;
 }
 
 li {
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #fff;
+    line-height: 1.2em;
 }
 
 
