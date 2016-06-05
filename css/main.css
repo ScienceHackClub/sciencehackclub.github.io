@@ -1,8 +1,17 @@
 body {
     margin: 60px;
     width: 50%;
-    background-color: #222222;  
+    background-color: #222222;
 }
+
+@media only screen and (min-width: 450px) {
+  body {
+    margin: 60px;
+    width: 100%;
+    background-color: #222222;
+  }
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -76,8 +85,8 @@ footer {
     border-top: 1px solid #d5d5d5;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
