@@ -33,5 +33,3 @@ Para poder ejecutarlo sigan estos pasos:
 2. Importar el archivo **.ova** que hemos descargado del paso superior. Una vez instalado VirtualBox basta con dar doble click sobre el archivo y posteriormente a importar. Si se pierden pueden seguir este tutorial:
 
 <div style="margin: 30px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Vu64isQS56Y" frameborder="0" allowfullscreen></iframe></div>
-
-3. Ya podrán ejecutar linux sin problemas.
