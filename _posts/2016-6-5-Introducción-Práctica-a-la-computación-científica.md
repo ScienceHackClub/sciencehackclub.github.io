@@ -10,7 +10,7 @@ Para intentar acortar esta distancia, el próximo **martes 7 de Junio a las 19:3
 
 ## Detalles
 
-La introducción, lejos de ser una presentación de líneas de código a modo de receta mágica para solventar problemas específicos, pretende dar una visión panóramica de los conceptos y herramientas clave que dotarán a los asistentes de una solida base sobre la que comenzar la computación científica. No es necesaria ninguna experiencia informática para asistir a esta sesión.
+La introducción, lejos de ser una presentación de líneas de código a modo de receta mágica para solventar problemas específicos, pretende dar una visión panóramica de los conceptos y herramientas clave que dotarán a los asistentes de una solida base sobre la que comenzar el aprendizaje de computación científica. No es necesaria ninguna experiencia informática para asistir a esta sesión.
 
 ### Puntos que se tratarán
 
